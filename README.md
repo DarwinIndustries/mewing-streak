@@ -3,6 +3,10 @@ Detecting when a human's mouth is open but when it is your mac shuts down
 
 `sudo python3 main.py` to run
 
+## Necessary Install
+[download shape face .dat necessary](https://www.mediafire.com/file/onwfax3xk64lzmz/shape_predictor_68_face_landmarks.dat/file)
+> Keep in same directory as the main.py file
+
 ## Referenced Code
 
 [Adrian Rosebrock - drowsiness detection](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
